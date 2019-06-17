@@ -10,7 +10,7 @@ Yes.
     
 API
 ===
-.. automodule:: Test
+.. automodule:: test
    :members:
 
 Indices and tables
